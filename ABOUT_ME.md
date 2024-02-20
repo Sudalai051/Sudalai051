@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Sudalai051
-- 👀 I’m interested in Web and application devolepment
+- 👋 Hi, I’m SudalaiMani
+
+- 😁 I’m interested in Web and application devolepment
+
 - 🌱 I’m currently learning in B.E Biomedical Engineering in KPR Institute of engineering and technology
-- 💞
+
 - 📫 Contact Me on  LinkedIn - https://www.linkedin.com/in/sudalai-mani-77b751200/
 
 <!---
